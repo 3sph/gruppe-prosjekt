@@ -1,0 +1,21 @@
+body {
+    height: 98vh;
+    text-align: center;
+    /* background-color: antiquewhite; */
+    background-image: linear-gradient( rgba(255, 255, 0, 0.606), rgb(190, 69, 69)); 
+}
+
+.cont {
+    border: solid black 1px;
+    width: auto;
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+    background-color: rgb(86, 187, 166);
+}
+.int_img{
+height: 200px;
+
+} 
+
